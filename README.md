@@ -15,7 +15,7 @@
 
 ## **4 step**
 - Connect to instance "RStudio instance":
- - ssh -i key.pem ec2-user@<Public-IP>
+  * ssh -i key.pem ec2-user@<Public-IP>
 
 - Install R using command below:
  - sudo amazon-linux-extras install R3.4
