@@ -28,11 +28,11 @@
   * sudo rstudio-server start
 
 - *Add user and password:*
- * sudo useradd **username**
- * echo **username:password** | sudo chpasswd
+  * sudo useradd **username**
+  * echo **username:password** | sudo chpasswd
 
 - *Connect to RStudio server installed on a AWS instance*
- * <Public-IP>:8787
+  * <Public-IP>:8787
 
 ## **Voila!**
 
