@@ -34,7 +34,7 @@
 - *Connected to RStudio server installed on a AWS instance*
   * "Public-IP":8787
 
-## **Voila!**
+## **Voila! We have done!**
 
 ![user](RStudio_Interface.png)
 
